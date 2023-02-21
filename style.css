@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+}
+navigation{
+    background-color: grey;
+}
+.nav{
+    display: flex;
+    background-color: grey;
+}
+li{
+    list-style-type: none;
+    margin-left: 20px;
+    color: brown;
+    align-items: center;
+    cursor: pointer;
+    font-size: 16px;
+}
